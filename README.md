@@ -1,6 +1,8 @@
 # 将已有项目代码通过命令行方式上传到github，傻瓜教程（图文）
 
 本文地址：http://www.jianshu.com/p/6030066a20e4
+github地址：https://github.com/xy83918/CreateNewRepository
+网页地址：https://xy83918.github.io/CreateNewRepository/
 
 # 1. 创建一个github项目
 
@@ -175,5 +177,8 @@ AlbertMP:CreateNewRepository Albert$
 然后你就可以为所欲为了，想做什么静态网页都可以去修改这个html了。
 
 https://xy83918.github.io/CreateNewRepository/
+
+
+
 
 
